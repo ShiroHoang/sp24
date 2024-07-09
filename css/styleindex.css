@@ -1,0 +1,88 @@
+body {
+    font-size: 20px;
+}
+
+
+#logo {
+    display: flex;
+    margin: 10px;
+}
+
+#search {
+    display: flex;
+}
+
+.has-search {
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    align-items: flex-end;
+}
+
+.quote {
+    position: relative;
+    bottom: 15px;
+}
+
+#quote {
+    font-size: 18px;
+    color: orange;
+    font-style: italic;
+}
+
+.navbar {
+    display: flex;
+}
+
+
+div h1 {
+    color: #0ad3d3;
+    text-align: center;
+    padding: 8px;
+}
+
+
+#vrglass {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+
+.VSPro {
+    text-align: center;
+    color: orange;
+}
+
+.watch {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.box-shade {
+    box-shadow: 5px 5px gray;
+    border: 1px solid black;
+    margin: 12px 0px;
+}
+
+.footer {
+    background-color: #01EDF1;
+    text-align: center;
+    color: white;
+    padding: 7px 0px;
+}
+
+.box-shade {
+    text-align: center;
+    color: burlywood;
+}
+
+u {
+    text-decoration: none;
+    color: #01EDF1;
+    text-align: start;
+    margin-left: 2px;
+}
